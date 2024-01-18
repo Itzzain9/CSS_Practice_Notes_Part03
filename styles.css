@@ -42,4 +42,12 @@ p{
    background-color: red;
 } 
 
+/* Css background-Attached */
+body{
+   background: white url(/images/f95f5676571b30e0b79d23e5d75b78d7.jpg);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   margin-left: 200px;
+}
+
 
