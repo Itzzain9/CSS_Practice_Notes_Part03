@@ -30,4 +30,11 @@ h3{ font-style: oblique;}
 h4{ font-style:normal;}
 }
 
+/* Css Font Vaiant */
+p{  font-variant: small-caps;}
+h3{ font-variant: normal;}
+
+/* Css Font Weight */
+p{ color: red;}
+
 
