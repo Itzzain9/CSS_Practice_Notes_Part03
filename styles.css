@@ -7,3 +7,13 @@ body{
 }
 
 
+/* Css Font Family */
+body{
+   font-size: 100%;
+   h1{ font-family: sans-serif;}
+   h2{ font-family: serif;}
+   p{  font-family: monospace;}
+}
+
+
+
