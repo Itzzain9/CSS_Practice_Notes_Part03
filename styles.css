@@ -15,5 +15,19 @@ body{
    p{  font-family: monospace;}
 }
 
+/* Example of font Size */
+p{
+   color: aqua;
+   background-color: black;
+}
+
+/* Css Font Style */
+body{
+   font-size: 100%;
+}
+h2{ font-style: italic;}
+h3{ font-style: oblique;}
+h4{ font-style:normal;}
+}
 
 
